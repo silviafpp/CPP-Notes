@@ -1,0 +1,32 @@
+---Struct---
+
+Código Básico
+
+stuct Car {
+    string brand;
+    string model; 
+    int year;
+    double price;
+}
+
+int main() {
+    Car carro1;
+    Car carro2;
+    Car carro3;
+
+    carro1.brand = "Ford";
+    carro1.model = "Focus";
+    carro1.year  = 2000;
+    carro1.price = 20000;
+}
+
+Uma Struct é um tipo de variavel por exemplo:
+
+stuct Car {
+    string brand;
+    string model; 
+    int year;
+    double price;
+}
+
+Neste caso, a variavel é "Car" que aceita os seguintes parametros: brand, model, year e price.
