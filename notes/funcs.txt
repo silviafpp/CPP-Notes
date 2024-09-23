@@ -1,0 +1,20 @@
+---Funções---
+
+Definição: Função é um bloco de código que é executada quando é chamada 
+
+* Uma função recebe parametros ou devolve algo
+* 
+
+void nomeDaFunc() {
+
+}
+
+
+
+int soma(int lista[]) {
+    float soma = 0;
+    for(int i = 0; i < 5; i++) {
+        soma += list[i];
+    }
+    return(int)soma;
+}
