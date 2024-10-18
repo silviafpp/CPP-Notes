@@ -17,7 +17,12 @@ Class Carro{
 };
 
 int main() {
-    Carro carro1;
-
-    
+    Carro carro1; 
 }
+
+Um objeto tem métodos e atributos:
+
+Obejto - Carro
+
+Método - Ligar
+Atributos - Cor
